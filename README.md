@@ -8,4 +8,3 @@ As a software engineer, I am a highly skilled professional with a passion for te
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [dev.usamabasharat@gmail.com](mailto:dev.usamabasharat@gmail.com)
-* 🧠  I'm learning NodeJS, and Software Architecture
