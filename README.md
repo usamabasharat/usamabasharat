@@ -35,6 +35,16 @@ As a software engineer, I am a highly skilled professional with a passion for te
 
 ---
 
+### 📈 Github Stats :
+
+<a href="https://github.com/usamabasharat">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabasharat&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/usamabasharat">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=usamabasharat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Usama's GitHub Stats" />
+</a>
+
 ### 📧: Contact :
 
 * You can contact me at [dev.usamabasharat@gmail.com](mailto:dev.usamabasharat@gmail.com)
