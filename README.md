@@ -19,6 +19,5 @@
 
 ## 📈 Github Stats
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usamabasharat"/></a><br><br>
-    <a href="https://gpvc.arturio.dev/usamabasharat"><img src="https://gpvc.arturio.dev/usamabasharat"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usamabasharat"/></a><br>
 </div>
