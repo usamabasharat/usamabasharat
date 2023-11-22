@@ -6,7 +6,7 @@
   Full Stack Developer with a proven track record in building scalable applications. Adept at problem-solving and thriving on challenges, I consistently deliver high-quality code while adhering to project timelines. With expertise in both front-end and back-end technologies, I strive for better code quality and continuously seek ways to optimize performance. Visit my GitHub account to explore my work and let's collaborate on your next project.
 </div>
 
-- 🔭 I’m currently working on  React, Node, Ruby on Rails, Python, Django, and DevOps.  
+- 🔭 I’m currently working on  React, Ruby on Rails, Python, Django, and DevOps.  
   
 
 - ❓ Ask me about anything related to Tech.  
