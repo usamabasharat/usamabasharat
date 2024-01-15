@@ -14,7 +14,7 @@
 
 ## :dart: Tools & Technologies 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,python,django,ruby,rails,nodejs,express,mysql,postgres,graphql,aws,gcp,azure,heroku,docker,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,python,django,ruby,rails,mysql,postgres,graphql,aws,gcp,azure,heroku,docker,git&perline=11" />
 </div>
 
 ## 📈 Github Stats
