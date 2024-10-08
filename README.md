@@ -79,7 +79,7 @@
 
 ![Stripe](https://img.shields.io/badge/Stripe-%236772e4.svg?style=flat&logo=stripe&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-![Algolia](https://img.shields.io/badge/Algolia%20Search-%23013DFF.svg?style=flat&logo=algolia&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-%23013DFF.svg?style=flat&logo=algolia&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-%2300C0B4.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Twillio](https://img.shields.io/badge/Twilio-%23F32F48.svg?style=flat&logo=twilio&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-%234284F3.svg?style=flat&logo=google&logoColor=white) 
