@@ -98,7 +98,7 @@
   
 ## 📈 Github Stats
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usamabasharat"/></a></br>
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=usamabasharat"/></a></br>
     <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamabasharat&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 </div>
 
