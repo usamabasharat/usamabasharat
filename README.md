@@ -82,6 +82,7 @@ I'm a Full Stack Developer who loves turning complex problems into clean, scalab
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-%232A2442.svg?style=flat&logo=githubcopilot&logoColor=white)
 ![V0](https://img.shields.io/badge/v0-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-%23FF4F8B.svg?style=flat&logo=heart&logoColor=white)
 
 **Integrations & APIs**
 
