@@ -4,7 +4,7 @@
 
 **Full Stack Developer · Building Scalable Web Applications**
 
-🤖 Supercharging development with AI — from intelligent code generation to automated workflows,
+🤖 Supercharging development with AI, from intelligent code generation to automated workflows,
 I leverage cutting-edge AI tools to build faster, smarter, and better.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B65C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-usama/)
@@ -19,9 +19,9 @@ I leverage cutting-edge AI tools to build faster, smarter, and better.
 
 I'm a Full Stack Developer who loves turning complex problems into clean, scalable solutions. I work across the entire stack — from pixel-perfect frontends to robust backend architectures — and I'm passionate about writing code that's maintainable, performant, and built to last.
 
-- 🔭 &nbsp;Currently working with **React.js, Next.js, Ruby on Rails, Python, Django & DevOps**
-- ⚡ &nbsp;7+ years of experience delivering production-grade applications
-- 💬 &nbsp;Ask me about anything related to tech — happy to help!
+- 🔭 &nbsp; Currently working with **React.js, Next.js, Ruby on Rails, Python, Django & DevOps**
+- ⚡ &nbsp; 7+ years of experience delivering production-grade applications
+- 💬 &nbsp; Ask me about anything related to tech — happy to help!
 
 ---
 
