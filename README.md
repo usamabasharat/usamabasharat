@@ -7,10 +7,6 @@
 🤖 Supercharging development with AI, from intelligent code generation to automated workflows,
 I leverage cutting-edge AI tools to build faster, smarter, and better.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B65C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-usama/)
-[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.usamabasharat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamabasharat)
-
 </div>
 
 ---
