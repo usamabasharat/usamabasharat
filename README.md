@@ -16,7 +16,7 @@ I leverage cutting-edge AI tools to build faster, smarter, and better.
 I'm a Full Stack Developer who loves turning complex problems into clean, scalable solutions. I work across the entire stack — from pixel-perfect frontends to robust backend architectures — and I'm passionate about writing code that's maintainable, performant, and built to last.
 
 - 🔭 &nbsp; Currently working with **React.js, Next.js, Ruby on Rails, Python, Django & DevOps**
-- ⚡ &nbsp; 7+ years of experience delivering production-grade applications
+- ⚡ &nbsp; 6+ years of experience delivering production-grade applications
 - 💬 &nbsp; Ask me about anything related to tech — happy to help!
 
 ---
