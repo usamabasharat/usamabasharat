@@ -2,10 +2,10 @@
 
 # Hey, I'm Usama 👋
 
-**Full Stack Developer · Building Scalable Web Applications**
+**Senior Full Stack & AI Engineer · Building Intelligent, Scalable Applications**
 
-🤖 Supercharging development with AI, from intelligent code generation to automated workflows,
-I leverage cutting-edge AI tools to build faster, smarter, and better.
+🤖 7+ years building production-grade software, the last couple of which have been focused on Generative AI, LLMs,
+RAG pipelines, and AI-powered automation. I like turning these technologies into systems people actually use.
 
 </div>
 
@@ -13,11 +13,12 @@ I leverage cutting-edge AI tools to build faster, smarter, and better.
 
 ### 🧑‍💻 About Me
 
-I'm a Full Stack Developer who loves turning complex problems into clean, scalable solutions. I work across the entire stack — from pixel-perfect frontends to robust backend architectures — and I'm passionate about writing code that's maintainable, performant, and built to last.
+I'm a full-stack engineer and founder who enjoys building AI-powered software that solves real problems. I work across the stack, from frontend interfaces to backend architecture, and over the past couple of years I've gone deep into Generative AI: LLMs, RAG pipelines, vector databases, and automation.
 
-- 🔭 &nbsp; Currently working with **React.js, Next.js, Ruby on Rails, Python, Django & DevOps**
-- ⚡ &nbsp; 6+ years of experience delivering production-grade applications
-- 💬 &nbsp; Ask me about anything related to tech — happy to help!
+- 🔭 &nbsp; Currently building **AI automation workflows and RAG pipelines** with n8n, Next.js, Node.js, and Python
+- 🧠 &nbsp; Recent work: AI customer support agents, RAG pipelines using Gemini embeddings and Pinecone for intelligent retrieval, and backend engineering (Java, Spring Boot) on a healthcare platform
+- ⚡ &nbsp; 7+ years building production applications, with the last two years focused on AI and LLM integration
+- 💬 &nbsp; Ask me about full-stack engineering, LLM integration, or AI automation. Happy to help!
 
 ---
 
@@ -27,31 +28,46 @@ I'm a Full Stack Developer who loves turning complex problems into clean, scalab
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/Ant_Design-%230170FE?style=flat&logo=ant-design&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 **Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**AI & Generative AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Mobile**
 
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-**Databases**
+**Databases & Vector Stores**
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -70,15 +86,6 @@ I'm a Full Stack Developer who loves turning complex problems into clean, scalab
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-
-**AI-Powered Development**
-
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat&logo=cursor&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-%232A2442.svg?style=flat&logo=githubcopilot&logoColor=white)
-![V0](https://img.shields.io/badge/v0-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-%23FF4F8B.svg?style=flat&logo=heart&logoColor=white)
 
 **Integrations & APIs**
 
@@ -113,5 +120,5 @@ I'm a Full Stack Developer who loves turning complex problems into clean, scalab
 ---
 
 <div align="center">
-  <sub>Open to collaborations and interesting projects — let's build something great together.</sub>
+  <sub>Open to collaborations and interesting projects. Let's build something great together.</sub>
 </div>
